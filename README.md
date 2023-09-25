@@ -4,12 +4,12 @@
 ## 😄 Olá, meu nome é <strong>Álan do Nascimento</strong>!
 
 📚 Participante da 17º edição do Programa Starter Web Full Stack Developer - GrowDev.<br>
-📚 Já trabalhei como Auxiliar de Criação de peças publicitárias aplicando conhecimentos nas áreas de Design e Comunicação.<br> 
+📚 Já trabalhei como Auxiliar de Criação de peças publicitárias aplicando conhecimentos nas áreas de Design e Comunicação.<br>
 🎓 Técnico em Eletrônica pela Fundação Escola Técnica Liberato Salzano Vieira da Cunha - RS.<br>
 
-🟢💻 Atualmente estou em transição de carreira para a área de tecnologia, em Desenvolvimento Web Full Stack.
+💻 Atualmente estou em transição de carreira para a área de tecnologia, em Desenvolvimento Web Full Stack.
 
-😄 Gosto de música e cinema, pratico exercícios e busco levar uma vida prática e saudável!
+😄 Gosto de música e cinema, pratico exercícios e busco levar uma vida leve e saudável!
 
 ----
   
